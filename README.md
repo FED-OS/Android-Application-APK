@@ -1,4 +1,4 @@
-# Web-to-APK Universal Template
+# Web-to-APK Universal Template [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W3T61ZU5FS)
 
 ## What's in here
 - `generate_webapk_template.sh` — scaffolds a complete new web-to-APK Android
